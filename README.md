@@ -1,10 +1,10 @@
-<h1 align="center"><img height="30" width="30" src="./assets/image/Hi.gif"/> 一═⌊✪⌋Sr. Full Stack Dev⌊✪⌋═一
+<h1 align="center"><img height="30" width="30" src="./assets/image/Hi.gif"/> 一═⌊✪⌋Sr.Web3 Full Stack Dev⌊✪⌋═一
 </h1>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&size=30&vCenter=true&width=1000&lines=👋+Full+Stack+Developer+Senior+Blockchain+Engineer;"> -->
 
 ## 👨‍💻 About Me:
 
-### I'm a blockchain expert with over 10 years of experience designing and developing decentralized applications (dApps), smart contracts, and blockchain integrations. I specialize in Ethereum, Solidity, Hyperledger, and Layer-2 solutions, with extensive experience in building DeFi systems, designing tokenomics, and improving blockchain scalability and security.<br> In addition to my blockchain expertise, I'm proficient in Python and skilled in both front-end and back-end development, enabling me to deliver seamless, full-stack solutions.
+With over 10 years of experience in blockchain development, I specialize in designing and building decentralized applications (dApps), smart contracts, and blockchain integrations. My expertise spans **Ethereum, Solidity, Hyperledger, and Layer-2 scaling solutions**, with a strong focus on **DeFi, tokenomics, and blockchain security**.
 
 ## 🔥Statistics
 
@@ -54,6 +54,12 @@
 		<td><img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=itdream-dev&hide=html,scss,css&langs_count=8&layout=compact&theme=github_dark&card_width=150" /></code></td>
     </table>
 </div>
+
+### 💡 What I Do:
+- 🔹 Develop & audit smart contracts
+- 🔹 Build DeFi protocols & tokenomics models
+- 🔹 Integrate blockchain solutions with front-end applications
+- 🔹 Optimize blockchain scalability & security
 
 <br>
 
