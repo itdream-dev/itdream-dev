@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me:
 
-With over 7 years of experience in blockchain development, I specialize in designing and building decentralized applications (dApps), smart contracts, and blockchain integrations. My expertise spans **Ethereum, Solidity, Hyperledger, and Layer-2 scaling solutions**, with a strong focus on **DeFi, tokenomics, and blockchain security**.
+With over 10 years of experience in blockchain development, I specialize in designing and building decentralized applications (dApps), smart contracts, and blockchain integrations. My expertise spans **Ethereum, Solidity, Hyperledger, and Layer-2 scaling solutions**, with a strong focus on **DeFi, tokenomics, and blockchain security**.
 
 ## 🔥Statistics
 
